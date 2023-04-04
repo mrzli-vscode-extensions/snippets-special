@@ -1,0 +1,8 @@
+{
+  "Data transformer": {
+    "scope": "typescript,typescriptreact",
+    "prefix": "gmtrans",
+    "description": "Create a function call for data transformation.",
+    "body": "applyFn(${1:value}, transformPipe(${2:transformer}))"
+  }
+}
