@@ -6,6 +6,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.3] - 2023-12-09
+
+### Changed
+
+- Update 'gmtrans' snippet.
+
 ## [0.0.2] - 2023-04-06
 
 ### Fixed

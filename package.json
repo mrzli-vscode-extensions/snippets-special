@@ -2,7 +2,7 @@
   "name": "snippets-special",
   "displayName": "Snippets Special",
   "description": "Special (specific) code snippets",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "goran-mrzljak",
   "repository": {
     "type": "git",
